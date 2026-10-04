@@ -335,7 +335,7 @@
 
             {{-- Footer --}}
             <footer class="border-t border-gray-200 py-6 text-xs text-gray-500">
-                <p>&copy; {{ date('Y') }} [YOUR FULL NAME]. All rights reserved.</p>
+                <p>&copy; {{ date('Y') }} Cyron B. Maducdoc. All rights reserved.</p>
             </footer>
         </main>
     </body>
